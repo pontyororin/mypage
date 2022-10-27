@@ -12,7 +12,8 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        きょーりゅーちゃんはいっぱいいるよ!
+      🦖🦕きょーりゅーちゃんはいっぱいいるよ!🦖🦕
+
       </main>
 
       <footer className={styles.footer}>
